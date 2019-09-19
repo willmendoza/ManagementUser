@@ -1,0 +1,14 @@
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\bin\Debug\netcoreapp2.2\ManagementUser.Api.deps.json
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\bin\Debug\netcoreapp2.2\ManagementUser.Api.runtimeconfig.json
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\bin\Debug\netcoreapp2.2\ManagementUser.Api.runtimeconfig.dev.json
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\bin\Debug\netcoreapp2.2\ManagementUser.Api.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\bin\Debug\netcoreapp2.2\ManagementUser.Api.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\obj\Debug\netcoreapp2.2\ManagementUser.Api.csprojAssemblyReference.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\obj\Debug\netcoreapp2.2\ManagementUser.Api.csproj.CoreCompileInputs.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\obj\Debug\netcoreapp2.2\ManagementUser.Api.RazorAssemblyInfo.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\obj\Debug\netcoreapp2.2\ManagementUser.Api.RazorAssemblyInfo.cs
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\obj\Debug\netcoreapp2.2\ManagementUser.Api.AssemblyInfoInputs.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\obj\Debug\netcoreapp2.2\ManagementUser.Api.AssemblyInfo.cs
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\obj\Debug\netcoreapp2.2\ManagementUser.Api.RazorTargetAssemblyInfo.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\obj\Debug\netcoreapp2.2\ManagementUser.Api.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\obj\Debug\netcoreapp2.2\ManagementUser.Api.pdb

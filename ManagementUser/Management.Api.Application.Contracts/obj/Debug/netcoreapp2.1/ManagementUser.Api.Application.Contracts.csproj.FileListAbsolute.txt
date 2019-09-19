@@ -1,0 +1,8 @@
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application.Contracts\bin\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.deps.json
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application.Contracts\bin\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application.Contracts\bin\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application.Contracts\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application.Contracts\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application.Contracts\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.AssemblyInfo.cs
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application.Contracts\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application.Contracts\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.pdb

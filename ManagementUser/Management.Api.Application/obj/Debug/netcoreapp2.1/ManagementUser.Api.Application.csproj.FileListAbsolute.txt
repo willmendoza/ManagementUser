@@ -1,0 +1,9 @@
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\bin\Debug\netcoreapp2.1\ManagementUser.Api.Application.deps.json
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\bin\Debug\netcoreapp2.1\ManagementUser.Api.Application.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\bin\Debug\netcoreapp2.1\ManagementUser.Api.Application.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.csprojAssemblyReference.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.csproj.CoreCompileInputs.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.AssemblyInfoInputs.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.AssemblyInfo.cs
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.pdb

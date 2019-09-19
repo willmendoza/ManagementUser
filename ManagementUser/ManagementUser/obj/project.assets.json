@@ -12074,9 +12074,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willmendoza\\Documents\\Visual Studio 2017\\project\\willmendoza\\ManagementUser\\ManagementUser\\ManagementUser\\ManagementUser.csproj",
-      "projectName": "ManagementUser",
-      "projectPath": "C:\\Users\\willmendoza\\Documents\\Visual Studio 2017\\project\\willmendoza\\ManagementUser\\ManagementUser\\ManagementUser\\ManagementUser.csproj",
+      "projectUniqueName": "C:\\Users\\willmendoza\\Documents\\Visual Studio 2017\\project\\willmendoza\\ManagementUser\\ManagementUser\\ManagementUser\\ManagementUser.Api.csproj",
+      "projectName": "ManagementUser.Api",
+      "projectPath": "C:\\Users\\willmendoza\\Documents\\Visual Studio 2017\\project\\willmendoza\\ManagementUser\\ManagementUser\\ManagementUser\\ManagementUser.Api.csproj",
       "packagesPath": "C:\\Users\\willmendoza\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\willmendoza\\Documents\\Visual Studio 2017\\project\\willmendoza\\ManagementUser\\ManagementUser\\ManagementUser\\obj\\",
       "projectStyle": "PackageReference",
