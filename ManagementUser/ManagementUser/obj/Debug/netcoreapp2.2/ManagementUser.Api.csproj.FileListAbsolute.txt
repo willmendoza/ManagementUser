@@ -12,3 +12,8 @@ C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\Management
 C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\obj\Debug\netcoreapp2.2\ManagementUser.Api.RazorTargetAssemblyInfo.cache
 C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\obj\Debug\netcoreapp2.2\ManagementUser.Api.dll
 C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\obj\Debug\netcoreapp2.2\ManagementUser.Api.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\bin\Debug\netcoreapp2.2\ManagementUser.Api.DataAccess.Contract.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\bin\Debug\netcoreapp2.2\ManagementUser.Api.DataAccess.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\bin\Debug\netcoreapp2.2\ManagementUser.Api.DataAccess.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\bin\Debug\netcoreapp2.2\ManagementUser.Api.DataAccess.Contract.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser\obj\Debug\netcoreapp2.2\ManagementUser.Api.csproj.CopyComplete

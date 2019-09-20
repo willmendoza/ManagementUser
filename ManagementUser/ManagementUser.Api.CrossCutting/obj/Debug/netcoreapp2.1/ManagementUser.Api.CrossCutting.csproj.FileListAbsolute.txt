@@ -1,0 +1,9 @@
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\bin\Debug\netcoreapp2.1\ManagementUser.Api.CrossCutting.deps.json
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\bin\Debug\netcoreapp2.1\ManagementUser.Api.CrossCutting.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\bin\Debug\netcoreapp2.1\ManagementUser.Api.CrossCutting.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\obj\Debug\netcoreapp2.1\ManagementUser.Api.CrossCutting.csprojAssemblyReference.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\obj\Debug\netcoreapp2.1\ManagementUser.Api.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\obj\Debug\netcoreapp2.1\ManagementUser.Api.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\obj\Debug\netcoreapp2.1\ManagementUser.Api.CrossCutting.AssemblyInfo.cs
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\obj\Debug\netcoreapp2.1\ManagementUser.Api.CrossCutting.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\obj\Debug\netcoreapp2.1\ManagementUser.Api.CrossCutting.pdb

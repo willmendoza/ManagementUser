@@ -1,0 +1,12 @@
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\bin\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.deps.json
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\bin\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\obj\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.csprojAssemblyReference.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\obj\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\obj\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.AssemblyInfoInputs.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\obj\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.AssemblyInfo.cs
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\bin\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\bin\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.Contract.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\bin\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.Contract.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\obj\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.csproj.CopyComplete
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\obj\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\obj\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.pdb

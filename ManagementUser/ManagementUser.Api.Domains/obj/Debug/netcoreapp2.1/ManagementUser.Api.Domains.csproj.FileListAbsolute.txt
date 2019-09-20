@@ -1,0 +1,9 @@
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.Domains\bin\Debug\netcoreapp2.1\ManagementUser.Api.Domains.deps.json
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.Domains\bin\Debug\netcoreapp2.1\ManagementUser.Api.Domains.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.Domains\bin\Debug\netcoreapp2.1\ManagementUser.Api.Domains.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.Domains\obj\Debug\netcoreapp2.1\ManagementUser.Api.Domains.csproj.CoreCompileInputs.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.Domains\obj\Debug\netcoreapp2.1\ManagementUser.Api.Domains.AssemblyInfoInputs.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.Domains\obj\Debug\netcoreapp2.1\ManagementUser.Api.Domains.AssemblyInfo.cs
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.Domains\obj\Debug\netcoreapp2.1\ManagementUser.Api.Domains.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.Domains\obj\Debug\netcoreapp2.1\ManagementUser.Api.Domains.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.Domains\obj\Debug\netcoreapp2.1\ManagementUser.Api.Domains.csprojAssemblyReference.cache
