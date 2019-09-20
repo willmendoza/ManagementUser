@@ -4,6 +4,7 @@ using ManagementUser.Api.DataAccess.Contract.Repositories;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace ManagementUser.Api.DataAccess.Repositories
@@ -44,9 +45,9 @@ namespace ManagementUser.Api.DataAccess.Repositories
             return result;
         }
 
-        public Task<IEnumerable<UserEntity>> GetAll()
+        public async Task<IEnumerable<UserEntity>> GetAll()
         {
-            throw new NotImplementedException();
+            return  _managementUserDBContext.Users.Select(x=> x);
         }
 
         public async Task<UserEntity> Update(UserEntity element)

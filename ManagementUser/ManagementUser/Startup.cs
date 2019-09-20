@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ManagementUser.Api.CrossCutting.Register;
 using ManagementUser.Api.DataAccess;
+using ManagementUser.Api.DataAccess.Contract;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -27,7 +29,10 @@ namespace ManagementUser
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<IManagementUserDBContext, ManagementUserDBContext>();
             services.AddDbContext<ManagementUserDBContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DataBaseConnection")));
+
+            IoCRegister.AddRegistration(services);
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 

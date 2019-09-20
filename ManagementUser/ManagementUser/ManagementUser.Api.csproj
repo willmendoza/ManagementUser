@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ManagementUser.Api.CrossCutting\ManagementUser.Api.CrossCutting.csproj" />
     <ProjectReference Include="..\ManagementUser.Api.DataAccess\ManagementUser.Api.DataAccess.csproj" />
   </ItemGroup>
 

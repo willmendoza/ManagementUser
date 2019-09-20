@@ -912,6 +912,7 @@
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
           "ManagementUser.Api.Application.Contracts": "1.0.0",
+          "ManagementUser.Api.DataAccess": "1.0.0",
           "ManagementUser.Api.DataAccess.Contract": "1.0.0"
         },
         "compile": {
@@ -936,6 +937,7 @@
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
           "ManagementUser.Api.DataAccess.Contract": "1.0.0",
+          "ManagementUser.Api.Domains": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.2.6"
         },
         "compile": {
@@ -956,6 +958,16 @@
         },
         "runtime": {
           "bin/placeholder/ManagementUser.Api.DataAccess.Contract.dll": {}
+        }
+      },
+      "ManagementUser.Api.Domains/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/ManagementUser.Api.Domains.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ManagementUser.Api.Domains.dll": {}
         }
       }
     }
@@ -3518,6 +3530,11 @@
       "type": "project",
       "path": "../ManagementUser.Api.DataAccess.Contract/ManagementUser.Api.DataAccess.Contract.csproj",
       "msbuildProject": "../ManagementUser.Api.DataAccess.Contract/ManagementUser.Api.DataAccess.Contract.csproj"
+    },
+    "ManagementUser.Api.Domains/1.0.0": {
+      "type": "project",
+      "path": "../ManagementUser.Api.Domains/ManagementUser.Api.Domains.csproj",
+      "msbuildProject": "../ManagementUser.Api.Domains/ManagementUser.Api.Domains.csproj"
     }
   },
   "projectFileDependencyGroups": {

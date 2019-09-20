@@ -4439,11 +4439,54 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
+      "ManagementUser.Api.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "ManagementUser.Api.Application.Contracts": "1.0.0",
+          "ManagementUser.Api.DataAccess": "1.0.0",
+          "ManagementUser.Api.DataAccess.Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ManagementUser.Api.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ManagementUser.Api.Application.dll": {}
+        }
+      },
+      "ManagementUser.Api.Application.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/ManagementUser.Api.Application.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ManagementUser.Api.Application.Contracts.dll": {}
+        }
+      },
+      "ManagementUser.Api.CrossCutting/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "ManagementUser.Api.Application": "1.0.0",
+          "ManagementUser.Api.Application.Contracts": "1.0.0",
+          "ManagementUser.Api.DataAccess": "1.0.0",
+          "ManagementUser.Api.DataAccess.Contract": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "2.2.0"
+        },
+        "compile": {
+          "bin/placeholder/ManagementUser.Api.CrossCutting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ManagementUser.Api.CrossCutting.dll": {}
+        }
+      },
       "ManagementUser.Api.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
           "ManagementUser.Api.DataAccess.Contract": "1.0.0",
+          "ManagementUser.Api.Domains": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.2.6"
         },
         "compile": {
@@ -4464,6 +4507,16 @@
         },
         "runtime": {
           "bin/placeholder/ManagementUser.Api.DataAccess.Contract.dll": {}
+        }
+      },
+      "ManagementUser.Api.Domains/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/ManagementUser.Api.Domains.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ManagementUser.Api.Domains.dll": {}
         }
       }
     }
@@ -12080,6 +12133,21 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
+    "ManagementUser.Api.Application/1.0.0": {
+      "type": "project",
+      "path": "../Management.Api.Application/ManagementUser.Api.Application.csproj",
+      "msbuildProject": "../Management.Api.Application/ManagementUser.Api.Application.csproj"
+    },
+    "ManagementUser.Api.Application.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Management.Api.Application.Contracts/ManagementUser.Api.Application.Contracts.csproj",
+      "msbuildProject": "../Management.Api.Application.Contracts/ManagementUser.Api.Application.Contracts.csproj"
+    },
+    "ManagementUser.Api.CrossCutting/1.0.0": {
+      "type": "project",
+      "path": "../ManagementUser.Api.CrossCutting/ManagementUser.Api.CrossCutting.csproj",
+      "msbuildProject": "../ManagementUser.Api.CrossCutting/ManagementUser.Api.CrossCutting.csproj"
+    },
     "ManagementUser.Api.DataAccess/1.0.0": {
       "type": "project",
       "path": "../ManagementUser.Api.DataAccess/ManagementUser.Api.DataAccess.csproj",
@@ -12089,10 +12157,16 @@
       "type": "project",
       "path": "../ManagementUser.Api.DataAccess.Contract/ManagementUser.Api.DataAccess.Contract.csproj",
       "msbuildProject": "../ManagementUser.Api.DataAccess.Contract/ManagementUser.Api.DataAccess.Contract.csproj"
+    },
+    "ManagementUser.Api.Domains/1.0.0": {
+      "type": "project",
+      "path": "../ManagementUser.Api.Domains/ManagementUser.Api.Domains.csproj",
+      "msbuildProject": "../ManagementUser.Api.Domains/ManagementUser.Api.Domains.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "ManagementUser.Api.CrossCutting >= 1.0.0",
       "ManagementUser.Api.DataAccess >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
@@ -12130,6 +12204,9 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
+            "C:\\Users\\willmendoza\\Documents\\Visual Studio 2017\\project\\willmendoza\\ManagementUser\\ManagementUser\\ManagementUser.Api.CrossCutting\\ManagementUser.Api.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\willmendoza\\Documents\\Visual Studio 2017\\project\\willmendoza\\ManagementUser\\ManagementUser\\ManagementUser.Api.CrossCutting\\ManagementUser.Api.CrossCutting.csproj"
+            },
             "C:\\Users\\willmendoza\\Documents\\Visual Studio 2017\\project\\willmendoza\\ManagementUser\\ManagementUser\\ManagementUser.Api.DataAccess\\ManagementUser.Api.DataAccess.csproj": {
               "projectPath": "C:\\Users\\willmendoza\\Documents\\Visual Studio 2017\\project\\willmendoza\\ManagementUser\\ManagementUser\\ManagementUser.Api.DataAccess\\ManagementUser.Api.DataAccess.csproj"
             }

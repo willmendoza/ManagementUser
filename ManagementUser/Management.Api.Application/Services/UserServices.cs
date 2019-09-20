@@ -5,6 +5,8 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 using ManagementUser.Api.Application.Contracts.Services;
+using ManagementUser.Api.DataAccess.Mappers;
+using ManagementUser.Api.Domains.Models;
 
 namespace ManagementUser.Api.Application.Services
 {
@@ -20,6 +22,12 @@ namespace ManagementUser.Api.Application.Services
         {
             var entity = await _userRepository.Get(userId);
             return entity.Name;
+        }
+
+        public async Task<User> AddUser(User user)
+        {
+           var addedEntity = await _userRepository.Add(UserMapper.Map(user));
+            return UserMapper.Map(addedEntity);
         }
     }
 }
