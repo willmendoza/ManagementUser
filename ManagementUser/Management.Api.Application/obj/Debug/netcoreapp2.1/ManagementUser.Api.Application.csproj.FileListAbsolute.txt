@@ -7,3 +7,12 @@ C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\Management
 C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.dll
 C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.pdb
 C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.csprojAssemblyReference.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\bin\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\bin\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.Contract.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\bin\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\bin\Debug\netcoreapp2.1\ManagementUser.Api.Domains.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\bin\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\bin\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.Contract.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\bin\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\bin\Debug\netcoreapp2.1\ManagementUser.Api.Domains.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.csproj.CopyComplete

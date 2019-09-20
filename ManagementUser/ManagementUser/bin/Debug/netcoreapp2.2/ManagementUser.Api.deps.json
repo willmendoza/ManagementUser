@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v2.2": {
       "ManagementUser.Api/1.0.0": {
         "dependencies": {
+          "ManagementUser.Api.CrossCutting": "1.0.0",
           "ManagementUser.Api.DataAccess": "1.0.0",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
@@ -233,9 +234,46 @@
           }
         }
       },
+      "ManagementUser.Api.Application/1.0.0": {
+        "dependencies": {
+          "ManagementUser.Api.Application.Contracts": "1.0.0",
+          "ManagementUser.Api.DataAccess": "1.0.0",
+          "ManagementUser.Api.DataAccess.Contract": "1.0.0"
+        },
+        "runtime": {
+          "ManagementUser.Api.Application.dll": {}
+        },
+        "compile": {
+          "ManagementUser.Api.Application.dll": {}
+        }
+      },
+      "ManagementUser.Api.Application.Contracts/1.0.0": {
+        "runtime": {
+          "ManagementUser.Api.Application.Contracts.dll": {}
+        },
+        "compile": {
+          "ManagementUser.Api.Application.Contracts.dll": {}
+        }
+      },
+      "ManagementUser.Api.CrossCutting/1.0.0": {
+        "dependencies": {
+          "ManagementUser.Api.Application": "1.0.0",
+          "ManagementUser.Api.Application.Contracts": "1.0.0",
+          "ManagementUser.Api.DataAccess": "1.0.0",
+          "ManagementUser.Api.DataAccess.Contract": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "2.2.0"
+        },
+        "runtime": {
+          "ManagementUser.Api.CrossCutting.dll": {}
+        },
+        "compile": {
+          "ManagementUser.Api.CrossCutting.dll": {}
+        }
+      },
       "ManagementUser.Api.DataAccess/1.0.0": {
         "dependencies": {
           "ManagementUser.Api.DataAccess.Contract": "1.0.0",
+          "ManagementUser.Api.Domains": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.2.6"
         },
         "runtime": {
@@ -254,6 +292,14 @@
         },
         "compile": {
           "ManagementUser.Api.DataAccess.Contract.dll": {}
+        }
+      },
+      "ManagementUser.Api.Domains/1.0.0": {
+        "runtime": {
+          "ManagementUser.Api.Domains.dll": {}
+        },
+        "compile": {
+          "ManagementUser.Api.Domains.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3440,12 +3486,32 @@
       "path": "system.text.encoding.codepages/4.5.0",
       "hashPath": "system.text.encoding.codepages.4.5.0.nupkg.sha512"
     },
+    "ManagementUser.Api.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManagementUser.Api.Application.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManagementUser.Api.CrossCutting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "ManagementUser.Api.DataAccess/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "ManagementUser.Api.DataAccess.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManagementUser.Api.Domains/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

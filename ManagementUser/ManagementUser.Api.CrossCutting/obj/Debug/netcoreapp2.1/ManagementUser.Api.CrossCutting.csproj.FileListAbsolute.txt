@@ -7,3 +7,14 @@ C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\Management
 C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\obj\Debug\netcoreapp2.1\ManagementUser.Api.CrossCutting.AssemblyInfo.cs
 C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\obj\Debug\netcoreapp2.1\ManagementUser.Api.CrossCutting.dll
 C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\obj\Debug\netcoreapp2.1\ManagementUser.Api.CrossCutting.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\bin\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\bin\Debug\netcoreapp2.1\ManagementUser.Api.Application.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\bin\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.Contract.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\bin\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\bin\Debug\netcoreapp2.1\ManagementUser.Api.Domains.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\bin\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\bin\Debug\netcoreapp2.1\ManagementUser.Api.Application.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\bin\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.Contract.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\bin\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\bin\Debug\netcoreapp2.1\ManagementUser.Api.Domains.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.CrossCutting\obj\Debug\netcoreapp2.1\ManagementUser.Api.CrossCutting.csproj.CopyComplete

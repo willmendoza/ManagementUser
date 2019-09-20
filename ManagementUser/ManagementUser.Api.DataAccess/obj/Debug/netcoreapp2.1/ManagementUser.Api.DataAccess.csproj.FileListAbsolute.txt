@@ -10,3 +10,5 @@ C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\Management
 C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\obj\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.csproj.CopyComplete
 C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\obj\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.dll
 C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\obj\Debug\netcoreapp2.1\ManagementUser.Api.DataAccess.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\bin\Debug\netcoreapp2.1\ManagementUser.Api.Domains.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\ManagementUser.Api.DataAccess\bin\Debug\netcoreapp2.1\ManagementUser.Api.Domains.pdb

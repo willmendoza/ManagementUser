@@ -9,6 +9,7 @@
       "ManagementUser.Api.DataAccess/1.0.0": {
         "dependencies": {
           "ManagementUser.Api.DataAccess.Contract": "1.0.0",
+          "ManagementUser.Api.Domains": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.2.6"
         },
         "runtime": {
@@ -508,6 +509,11 @@
         "runtime": {
           "ManagementUser.Api.DataAccess.Contract.dll": {}
         }
+      },
+      "ManagementUser.Api.Domains/1.0.0": {
+        "runtime": {
+          "ManagementUser.Api.Domains.dll": {}
+        }
       }
     }
   },
@@ -889,6 +895,11 @@
       "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
     },
     "ManagementUser.Api.DataAccess.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManagementUser.Api.Domains/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
