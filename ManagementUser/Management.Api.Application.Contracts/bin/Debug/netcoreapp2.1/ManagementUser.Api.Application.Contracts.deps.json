@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v2.1": {
       "ManagementUser.Api.Application.Contracts/1.0.0": {
+        "dependencies": {
+          "ManagementUser.Api.Domains": "1.0.0"
+        },
         "runtime": {
           "ManagementUser.Api.Application.Contracts.dll": {}
+        }
+      },
+      "ManagementUser.Api.Domains/1.0.0": {
+        "runtime": {
+          "ManagementUser.Api.Domains.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ManagementUser.Api.Application.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManagementUser.Api.Domains/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

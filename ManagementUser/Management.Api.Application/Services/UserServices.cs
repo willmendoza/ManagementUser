@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using ManagementUser.Api.Application.Contracts.Services;
 using ManagementUser.Api.DataAccess.Mappers;
 using ManagementUser.Api.Domains.Models;
+using System.Linq;
 
 namespace ManagementUser.Api.Application.Services
 {
@@ -28,6 +29,29 @@ namespace ManagementUser.Api.Application.Services
         {
            var addedEntity = await _userRepository.Add(UserMapper.Map(user));
             return UserMapper.Map(addedEntity);
+        }
+
+        public async Task<User> GetUser(int userId)
+        {
+            var entity = await _userRepository.Get(userId);
+            return UserMapper.Map(entity);
+        }
+
+        public async Task DeleteUser(int id)
+        {
+            await _userRepository.Delete(id);
+        }
+
+        public async Task<User> UpdateUser(User user)
+        {
+            var update = await _userRepository.Update(UserMapper.Map(user));
+            return UserMapper.Map(update);
+        }
+
+        public async Task<IEnumerable<User>> GetAll()
+        {
+            var entity = await _userRepository.GetAll();
+            return entity.Select(UserMapper.Map);
         }
     }
 }

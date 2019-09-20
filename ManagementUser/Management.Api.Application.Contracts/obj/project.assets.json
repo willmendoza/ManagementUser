@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "ManagementUser.Api.Domains/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/ManagementUser.Api.Domains.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ManagementUser.Api.Domains.dll": {}
+        }
       }
     }
   },
@@ -674,10 +684,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "ManagementUser.Api.Domains/1.0.0": {
+      "type": "project",
+      "path": "../ManagementUser.Api.Domains/ManagementUser.Api.Domains.csproj",
+      "msbuildProject": "../ManagementUser.Api.Domains/ManagementUser.Api.Domains.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "ManagementUser.Api.Domains >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -711,7 +727,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\willmendoza\\Documents\\Visual Studio 2017\\project\\willmendoza\\ManagementUser\\ManagementUser\\ManagementUser.Api.Domains\\ManagementUser.Api.Domains.csproj": {
+              "projectPath": "C:\\Users\\willmendoza\\Documents\\Visual Studio 2017\\project\\willmendoza\\ManagementUser\\ManagementUser\\ManagementUser.Api.Domains\\ManagementUser.Api.Domains.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

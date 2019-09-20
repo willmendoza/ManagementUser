@@ -925,6 +925,9 @@
       "ManagementUser.Api.Application.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "ManagementUser.Api.Domains": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/ManagementUser.Api.Application.Contracts.dll": {}
         },

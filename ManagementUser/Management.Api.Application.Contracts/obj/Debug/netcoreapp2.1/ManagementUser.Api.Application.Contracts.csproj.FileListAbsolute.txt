@@ -7,3 +7,6 @@ C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\Management
 C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application.Contracts\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.dll
 C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application.Contracts\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.pdb
 C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application.Contracts\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.csprojAssemblyReference.cache
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application.Contracts\bin\Debug\netcoreapp2.1\ManagementUser.Api.Domains.dll
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application.Contracts\bin\Debug\netcoreapp2.1\ManagementUser.Api.Domains.pdb
+C:\Users\willmendoza\Documents\Visual Studio 2017\project\willmendoza\ManagementUser\ManagementUser\Management.Api.Application.Contracts\obj\Debug\netcoreapp2.1\ManagementUser.Api.Application.Contracts.csproj.CopyComplete

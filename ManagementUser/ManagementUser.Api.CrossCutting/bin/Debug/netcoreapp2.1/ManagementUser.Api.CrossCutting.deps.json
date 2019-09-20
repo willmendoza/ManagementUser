@@ -515,6 +515,9 @@
         }
       },
       "ManagementUser.Api.Application.Contracts/1.0.0": {
+        "dependencies": {
+          "ManagementUser.Api.Domains": "1.0.0"
+        },
         "runtime": {
           "ManagementUser.Api.Application.Contracts.dll": {}
         }
