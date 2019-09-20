@@ -11,23 +11,28 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1. Distributed Service", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.2. Application", "1.2. Application", "{618F8FDB-16FE-4B20-B4C8-3EE49E34570C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagementUser.Api.Application", "Management.Api.Application\ManagementUser.Api.Application.csproj", "{89AC0129-9A62-40DD-9A6C-756F63BCFA05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManagementUser.Api.Application", "Management.Api.Application\ManagementUser.Api.Application.csproj", "{89AC0129-9A62-40DD-9A6C-756F63BCFA05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagementUser.Api.Application.Contracts", "Management.Api.Application.Contracts\ManagementUser.Api.Application.Contracts.csproj", "{D1FC4B2E-08E9-4108-916D-8EC68F77A3DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManagementUser.Api.Application.Contracts", "Management.Api.Application.Contracts\ManagementUser.Api.Application.Contracts.csproj", "{D1FC4B2E-08E9-4108-916D-8EC68F77A3DC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.3. Domains", "1.3. Domains", "{AEAF0E4C-334E-4AE4-AFC6-23E44BB90ADB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagementUser.Api.Domains", "ManagementUser.Api.Domains\ManagementUser.Api.Domains.csproj", "{DA4AEDC2-F318-48A4-8698-D01FED4190C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManagementUser.Api.Domains", "ManagementUser.Api.Domains\ManagementUser.Api.Domains.csproj", "{DA4AEDC2-F318-48A4-8698-D01FED4190C2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.4. DataAccess", "1.4. DataAccess", "{5A54F6FF-9436-4939-8856-FA2CEDC2486E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagementUser.Api.DataAccess", "ManagementUser.Api.DataAccess\ManagementUser.Api.DataAccess.csproj", "{6D9DCD29-8289-4EC3-87F2-70E6877BF3E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManagementUser.Api.DataAccess", "ManagementUser.Api.DataAccess\ManagementUser.Api.DataAccess.csproj", "{6D9DCD29-8289-4EC3-87F2-70E6877BF3E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagementUser.Api.DataAccess.Contract", "ManagementUser.Api.DataAccess.Contract\ManagementUser.Api.DataAccess.Contract.csproj", "{A4738EA7-D974-452F-83EB-3C7168945106}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManagementUser.Api.DataAccess.Contract", "ManagementUser.Api.DataAccess.Contract\ManagementUser.Api.DataAccess.Contract.csproj", "{A4738EA7-D974-452F-83EB-3C7168945106}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.5 CrossCutting", "1.5 CrossCutting", "{200A8A0F-6209-4B38-9696-C424C1984849}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagementUser.Api.CrossCutting", "ManagementUser.Api.CrossCutting\ManagementUser.Api.CrossCutting.csproj", "{EC80F89A-EA31-4A43-B538-62E3E5D229BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManagementUser.Api.CrossCutting", "ManagementUser.Api.CrossCutting\ManagementUser.Api.CrossCutting.csproj", "{EC80F89A-EA31-4A43-B538-62E3E5D229BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2- Sql", "2- Sql", "{1B570217-C570-4DB0-9A15-78B26F8FC2F0}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\SQL Server Management Studio\prt_optimum_fisical_model\prt_optimum_fisical_model\Test.sql = ..\..\..\..\..\SQL Server Management Studio\prt_optimum_fisical_model\prt_optimum_fisical_model\Test.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
