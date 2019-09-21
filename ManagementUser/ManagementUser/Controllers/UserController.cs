@@ -26,6 +26,12 @@ namespace ManagementUser.Api.Controllers
             var name = await _userServices.GetUser(id);
             return Ok(name);
         }
+        [HttpGet]
+        public async Task<IActionResult> GetAll()
+        {
+            var name = await _userServices.GetAll();
+            return Ok(name);
+        }
 
         [HttpPost]
         public async Task<IActionResult> Add([FromBody]UserModel userModel)
