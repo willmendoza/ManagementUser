@@ -39,7 +39,7 @@ namespace ManagementUser.Api.Application.Services
 
         public async Task DeleteUser(int id)
         {
-            await _userRepository.Delete(id);
+            await _userRepository.DeleteAsync(id);
         }
 
         public async Task<User> UpdateUser(User user)

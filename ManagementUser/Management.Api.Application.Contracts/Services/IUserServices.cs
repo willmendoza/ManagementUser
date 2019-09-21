@@ -1,7 +1,5 @@
 ﻿using ManagementUser.Api.Domains.Models;
-using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace ManagementUser.Api.Application.Contracts.Services

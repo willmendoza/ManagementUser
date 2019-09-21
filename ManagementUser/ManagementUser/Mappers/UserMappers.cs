@@ -13,6 +13,7 @@ namespace ManagementUser.Api.Mappers
         {
             return new User()
             {
+                UserId = model.UserId,
                 Name = model.Name,
                 LastName = model.LastName,
                 Address = model.Address,

@@ -10,8 +10,8 @@ namespace ManagementUser.Api.DataAccess.Contract.Repositories
         Task<bool> Exist(int id);
         Task<IEnumerable<T>> GetAll();
         Task<T> Get(int id);
-        Task Delete(int id);
-        Task<T> Update(T element);
+        Task DeleteAsync(int id);
+        Task<T> Update(int id, T element);
         Task<T> Add(T element);
     }
 }

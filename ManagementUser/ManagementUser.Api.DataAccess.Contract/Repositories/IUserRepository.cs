@@ -8,6 +8,6 @@ namespace ManagementUser.Api.DataAccess.Contract.Repositories
 {
     public interface IUserRepository : IRepository<UserEntity>
     {
-
+        Task<UserEntity> Update(UserEntity entity);
     }
 }

@@ -26,7 +26,7 @@ namespace ManagementUser.Api.DataAccess.Repositories
             return entity;
         }
 
-        public async Task Delete(int id)
+        public async Task DeleteAsync(int id)
         {
             var result = await _managementUserDBContext.Users.SingleAsync(x => x.UserId == id);
             _managementUserDBContext.Users.Remove(result);
@@ -55,6 +55,21 @@ namespace ManagementUser.Api.DataAccess.Repositories
             var updateEntity = _managementUserDBContext.Users.Update(element);
             await _managementUserDBContext.SaveChangesAsync();
             return updateEntity.Entity;
+        }
+
+        public async Task<UserEntity> Update(int id, UserEntity element)
+        {
+
+            var entity = await Get(id);
+
+            entity.Name = element.Name;
+            entity.LastName = element.LastName;
+            entity.Address = element.Address;
+            entity.UpdateDate = DateTime.Now;
+            _managementUserDBContext.Users.Update(entity);
+            await _managementUserDBContext.SaveChangesAsync();
+
+            return entity;
         }
     }
 }
